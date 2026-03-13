@@ -148,25 +148,3 @@ Elaborar um modelo simplificado de:
 
 ---
 
-# 📌 Critérios de Avaliação
-
-| Critério           | Pontuação |
-| ------------------ | --------- |
-| Clareza conceitual | 2 pts     |
-| Aplicação prática  | 3 pts     |
-| Análise crítica    | 3 pts     |
-| Coerência técnica  | 2 pts     |
-
-Total: 10 pontos
-
----
-
-Se quiser, posso:
-
-* 🔥 Transformar isso em prova formal com gabarito
-* 🧾 Criar versão em PDF pronta para imprimir
-* 💻 Criar versão em Google Forms
-* 🎓 Criar versão nível pós-graduação com maior complexidade
-* 📊 Criar rubrica detalhada de correção
-
-Qual nível você quer aplicar para seus alunos?
